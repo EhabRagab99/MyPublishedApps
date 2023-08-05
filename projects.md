@@ -24,7 +24,7 @@
  
 # Imploy
 
-<img src="https://drive.google.com/file/d/1muUBcVvjic0I0WSIenn1cVMxa7wVp46-/view?usp=sharing" width="100" height="100"/>
+<img src="https://ibb.co/LvmWt9B" width="100" height="100"/>
 
 <p style="display: inline-block">
 IMPLOY is a recruitment platform where professionals can create their profiles and CVs and recruiters can post jobs or search the professionals directly by using multi-dimensional filters.
