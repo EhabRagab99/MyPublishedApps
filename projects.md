@@ -6,7 +6,6 @@
 <div><a href="#real_come" >Real Come</a> </div>
 <div><a href="#e_fatora" >E Fatora Tec</a> </div>
 <br></br>
-<br></br>
 <div><a href="#afkar" >Afkar</a> </div>
 <div><a href="#insure" >InSure</a> </div>
 <div><a href="#go_taxi" >Go Taxi</a> </div>
@@ -38,6 +37,7 @@ IMPLOY is a recruitment platform where professionals can create their profiles a
    <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
  </a>
 </div>
+<br></br>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
 
@@ -45,7 +45,7 @@ IMPLOY is a recruitment platform where professionals can create their profiles a
  <p id="imploy"></p>
 
 
- 
+ <br></br>
  <p id="main_pro"></p>
  
 # Main Pro
@@ -72,7 +72,7 @@ We serve you in the maintenance sector in three areas
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
 
-
+<br></br>
  <p id="main_pro_partner"></p>
  
 # Main Pro Partner
@@ -95,7 +95,7 @@ We serve you in the maintenance sector in three areas
 <!-- ============================================================================================================= -->
 
 
-
+<br></br>
  <p id="i_famous"></p>
  
 # I Famous
@@ -120,7 +120,7 @@ With the Ifamous application, you can communicate with celebrities directly, pro
 
 
 
-
+<br></br>
  <p id="mwardi"></p>
  
 # Mwardi
@@ -144,7 +144,7 @@ Through it, you can register attendance and leave, submit a request for leave or
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
 
-
+<br></br>
  <p id="real_come"></p>
  
 # Real Come
@@ -170,7 +170,7 @@ Through it, you can register attendance and leave, submit a request for leave or
 
 
 
-
+<br></br>
  <p id="e_fatora"></p>
  
 # E Fatora Tec
@@ -217,7 +217,7 @@ A special application that brings together the owner of an economic project idea
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
-
+<br></br>
 <p id="insure"></p>
  
 # InSure
@@ -240,7 +240,7 @@ You can request consultations in various specializations.
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
-
+<br></br>
 <p id="go_taxi"></p>
  
 # Go Taxi
@@ -261,7 +261,7 @@ Go Taxi is the # 1 app for a safe, reliable and affordable flight whenever you n
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
-
+<br></br>
 <p id="go_talabat"></p>
  
 # Go Talabat
@@ -306,7 +306,7 @@ A membership card that contributes to providing the person’s daily needs in ad
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
-
+<br></br>
 <p id="alyassirah"></p>
  
 # Alyassirah
@@ -328,7 +328,7 @@ We offer a varied menu of Turkish cuisine, a wide variety of main meals from the
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
-
+<br></br>
 <p id="maojod"></p>
  
 # Maojod
@@ -347,7 +347,7 @@ A wide variety of products from the best brands in all categories such as electr
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
 
-
+<br></br>
 <p id="styles"></p>
 
 # Styles Creator
@@ -367,7 +367,7 @@ you have to option to start creating a freely style or swapping between items.
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
 
-
+<br></br>
 <p id="gedawy"></p>
 
 # Al Gedawy Group
@@ -386,7 +386,7 @@ Al-gedawy Group for legal, commercial and advisory procedures and the establishm
 <!-- ============================================================================================================= -->
 
 
-
+<br></br>
 <p id="infopanies"></p>
 
 # Infopanies
