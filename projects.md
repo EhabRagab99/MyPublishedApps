@@ -183,7 +183,7 @@ you have to option to start creating a freely style or swapping between items.
 </p>
 
 <div id="badges">
-<a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/styles_creator.apk">
+<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/styles_creator.apk">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 </div>
@@ -201,7 +201,7 @@ Al-gedawy Group for legal, commercial and advisory procedures and the establishm
 </p>
 
 <div id="badges">
-<a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/gedawy_group.apk">
+<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/gedawy_group.apk">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 </div>
@@ -221,7 +221,7 @@ To discuss the most important technological developments in our lives and soluti
 </p>
 
 <div id="badges">
-<a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/infopanies.apk">
+<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/infopanies.apk">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 </div>
