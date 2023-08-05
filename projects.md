@@ -194,66 +194,7 @@ Tec Badia provides a completely secure system for issuing electronic invoices wi
 <br></br>
 <br></br>
 
-<p id="styles"></p>
 
-# Styles Creator
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/style-26-logo-png-transparent.png" width="100" height="100"/>
-
-<p style="display: inline-block"> 
-styles creator app is a demo app to create your own styles and save or publish them.
-you have to option to start creating a freely style or swapping between items.
-</p>
-
-<div id="badges">
-<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/styles_creator.apk">
- <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</a>
-</div>
-<!-- ============================================================================================================= -->
-<!-- ============================================================================================================= -->
-
-
-<p id="gedawy"></p>
-
-# Al Gedawy Group
-
-<img src="http://mainsite.gedawigroup.com/images/logo.png" width="100" height="100"/>
-<p style="display: inline-block"> 
-Al-gedawy Group for legal, commercial and advisory procedures and the establishment of companies
-</p>
-
-<div id="badges">
-<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/gedawy_group.apk">
- <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</a>
-</div>
-<!-- ============================================================================================================= -->
-<!-- ============================================================================================================= -->
-
-
-
-<p id="infopanies"></p>
-
-# Infopanies
-
-<img src="https://forasna-images.wuzzuf-data.net/uploads/logos/thumb_clogo_2019-11-23-12-28-18_ZGXkXBivqiV8OFUjrZBMRAXX.png" width="100" height="100"/>
-<p style="display: inline-block"> 
-infopanies is a social media app for businesses and individuals
-To discuss the most important technological developments in our lives and solutions to the most important obstacles in the field of technology
-</p>
-
-<div id="badges">
-<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/infopanies.apk">
- <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</a>
-</div>
-<!-- ============================================================================================================= -->
-<!-- ============================================================================================================= -->
-
-<br></br>
-<br></br>
-<br></br>
 
 <p id="afkar"></p>
  
@@ -404,3 +345,65 @@ A wide variety of products from the best brands in all categories such as electr
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
+
+
+<p id="styles"></p>
+
+# Styles Creator
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/style-26-logo-png-transparent.png" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+styles creator app is a demo app to create your own styles and save or publish them.
+you have to option to start creating a freely style or swapping between items.
+</p>
+
+<div id="badges">
+<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/styles_creator.apk">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+
+<p id="gedawy"></p>
+
+# Al Gedawy Group
+
+<img src="http://mainsite.gedawigroup.com/images/logo.png" width="100" height="100"/>
+<p style="display: inline-block"> 
+Al-gedawy Group for legal, commercial and advisory procedures and the establishment of companies
+</p>
+
+<div id="badges">
+<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/gedawy_group.apk">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+
+
+<p id="infopanies"></p>
+
+# Infopanies
+
+<img src="https://forasna-images.wuzzuf-data.net/uploads/logos/thumb_clogo_2019-11-23-12-28-18_ZGXkXBivqiV8OFUjrZBMRAXX.png" width="100" height="100"/>
+<p style="display: inline-block"> 
+infopanies is a social media app for businesses and individuals
+To discuss the most important technological developments in our lives and solutions to the most important obstacles in the field of technology
+</p>
+
+<div id="badges">
+<a href= "https://github.com/EhabRagab99/MyPublishedApps/blob/main/apks-of-not-uploaded-projects/infopanies.apk">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+<br></br>
+<br></br>
+<br></br>
