@@ -24,13 +24,13 @@
  
 # Imploy
 
-<img src="https://ibb.co/LvmWt9B" width="100" height="100"/>
+<img src="https://imgur.com/caHgthB" width="200" height="100"/>
 
 <p style="display: inline-block">
 IMPLOY is a recruitment platform where professionals can create their profiles and CVs and recruiters can post jobs or search the professionals directly by using multi-dimensional filters.
 </p>
 <div id="badges">
- <a href= "https://play.google.com/store/apps/details?id=com.Musllaha">
+ <a href= "https://play.google.com/store/apps/details?id=watan.imploy_app&hl=en_US">
    <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
  </a>
  <a href= "https://apps.apple.com/us/app/imploy/id1659274612">
