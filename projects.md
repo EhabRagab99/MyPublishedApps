@@ -1,6 +1,6 @@
-<div><a href="#imploy" >Imploy</a> </div>
+<div><a href="#thaki" >Imploy</a> </div>
 <div><a href="#tshtri" >Tshtri تشتري</a> </div>
-<div><a href="#thaki" >Tshtri تشتري</a> </div>
+<div><a href="#imploy" >Tshtri تشتري</a> </div>
 <div><a href="#main_pro" >Main Pro</a> </div>
 <div><a href="#main_pro_partner" >Main Pro Partner</a> </div>
 <div><a href="#i_famous" >I Famous</a> </div>
