@@ -1,5 +1,6 @@
 <div><a href="#imploy" >Imploy</a> </div>
 <div><a href="#tshtri" >Tshtri تشتري</a> </div>
+<div><a href="#thaki" >Tshtri تشتري</a> </div>
 <div><a href="#main_pro" >Main Pro</a> </div>
 <div><a href="#main_pro_partner" >Main Pro Partner</a> </div>
 <div><a href="#i_famous" >I Famous</a> </div>
@@ -20,6 +21,36 @@
 <div><a href="#gedawy" >Al Gedawy Group</a> </div>
 <div><a href="#infopanies" >Infopanies</a> </div>
 <br></br>
+
+ <p id="thaki"></p>
+ 
+# Thaki
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3m9pNbT/caHgthB.png" alt="caHgthB" border="0"></a>
+<p style="display: inline-block">
+Thaki application for paying and booking paid parking on public roads that offers a range of flexible and distinctive services:
+1. Parking reservation services through the app
+2. Payment of irregularities
+3. Package subscriptions
+4. Payment of parking fees
+</p>
+<div id="badges">
+ <a href= "https://play.google.com/store/apps/details?id=watan.imploy_app&hl=en_US">
+   <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+ </a>
+ <a href= "https://apps.apple.com/us/app/imploy/id1659274612">
+   <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
+ </a>
+</div>
+<br></br>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+
+ <p id="thaki"></p>
+
+
+ <br></br>
 
  <p id="imploy"></p>
  
@@ -46,6 +77,8 @@ IMPLOY is a recruitment platform where professionals can create their profiles a
 
 
  <br></br>
+
+
 
  <p id="tshtri"></p>
  
