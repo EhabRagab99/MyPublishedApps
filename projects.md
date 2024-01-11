@@ -26,8 +26,7 @@
  
 # Thaki
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3m9pNbT/caHgthB.png" alt="caHgthB" border="0"></a>
-<p style="display: inline-block">
+<a href="https://ibb.co/dGQqxrc"><img src="https://i.ibb.co/J5z4gKd/Logo.png" alt="Logo" border="0"></a><p style="display: inline-block">
 Thaki application for paying and booking paid parking on public roads that offers a range of flexible and distinctive services:
 1. Parking reservation services through the app
 2. Payment of irregularities
@@ -35,10 +34,10 @@ Thaki application for paying and booking paid parking on public roads that offer
 4. Payment of parking fees
 </p>
 <div id="badges">
- <a href= "https://play.google.com/store/apps/details?id=watan.imploy_app&hl=en_US">
+ <a href= "https://play.google.com/store/apps/details?id=com.scscsa.thaki&hl=en&gl=US">
    <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
  </a>
- <a href= "https://apps.apple.com/us/app/imploy/id1659274612">
+ <a href= "https://apps.apple.com/sa/app/thaki/id1576005384">
    <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
  </a>
 </div>
