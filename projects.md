@@ -1,5 +1,5 @@
 <div><a href="#imploy" >Imploy</a> </div>
-<div><a href="#tshtri" >Tshtri تشرتي</a> </div>
+<div><a href="#tshtri" >Tshtri تشتري</a> </div>
 <div><a href="#main_pro" >Main Pro</a> </div>
 <div><a href="#main_pro_partner" >Main Pro Partner</a> </div>
 <div><a href="#i_famous" >I Famous</a> </div>
@@ -52,14 +52,14 @@ IMPLOY is a recruitment platform where professionals can create their profiles a
 # Tshtri تشتري
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/LZwdm6r/qq.png" alt="qq" border="0"></a>
-
+<p style="display: inline-block">
 Tshtri | تشترى  is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.
 </p>
 <div id="badges">
- <a href= "[https://play.google.com/store/apps/details?id=watan.imploy_app&hl=en_US](https://play.google.com/store/apps/details?id=com.tshtri.tshtri&hl=en_US)">
+ <a href= "https://play.google.com/store/apps/details?id=com.tshtri.tshtri&hl=en_US">
    <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
  </a>
- <a href= "[https://apps.apple.com/us/app/imploy/id1659274612](https://apps.apple.com/us/app/tshtri-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A/id1602869931)">
+ <a href= "https://apps.apple.com/us/app/tshtri-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A/id1602869931">
    <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
  </a>
 </div>
