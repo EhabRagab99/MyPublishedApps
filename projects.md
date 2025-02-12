@@ -1,7 +1,7 @@
 <div><a href="#thaki" >Thaki</a> </div>
 <div><a href="#amnco" >Amnco</a> </div>
 <br>
-<div><a href="#guidlle" >Guidlee</a> </div>
+<div><a href="#guidlle" >Guidlle</a> </div>
 <br>
 <div><a href="#imploy" >Imploy</a> </div>
 <div><a href="#tshtri" >Tshtri تشتري</a> </div>
@@ -65,7 +65,7 @@ Thaki application for paying and booking paid parking on public roads that offer
  <br></br>
  # Guidlle
 
-<a href="https://ibb.co/wFdCW0SB"><img src="https://ibb.co/wFdCW0SB/Logo" alt="Logo" border="0"></a><p style="display: inline-block">
+<a href="https://ibb.co/rK5zDb77"><img src="https://ibb.co/rK5zDb77" alt="Logo" border="0"></a><p style="display: inline-block">
 Guidlle is an application that offers access to educational resources from primary school through employment.
 
 
