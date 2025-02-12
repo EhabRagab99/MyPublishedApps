@@ -87,7 +87,7 @@ Guidlle is an application that offers access to educational resources from prima
   
 # Amnco
 
-<a href="https://ibb.co/kgttVngJ"><img src="https://i.ibb.co/7JqqxcJQ/amnco.webp" alt="amnco" border="0"></a><p style="display: inline-block">
+<a href="https://ibb.co/jPJ8mjQg"><img src="https://i.ibb.co/39RT2PjB/unnamed.png" alt="unnamed" border="0"></a><p style="display: inline-block">
 Amnco application provides comprehensive civil security services to both government and private agencies throughout the Kingdom of Saudi Arabia.
 
 </p>
