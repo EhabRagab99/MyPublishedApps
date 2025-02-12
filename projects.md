@@ -65,7 +65,7 @@ Thaki application for paying and booking paid parking on public roads that offer
  <br></br>
  # Guidlle
 
-<a href="https://ibb.co/dGQqxrc"><img src="https://ibb.co/wFdCW0SB" alt="Logo" border="0"></a><p style="display: inline-block">
+<a href="https://ibb.co/wFdCW0SB"><img src="https://ibb.co/wFdCW0SB/Logo" alt="Logo" border="0"></a><p style="display: inline-block">
 Guidlle is an application that offers access to educational resources from primary school through employment.
 
 
