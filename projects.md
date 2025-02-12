@@ -337,7 +337,7 @@ just choose what you want and wait for the delivery
 </p>
 
 <div id="badges">
-<a href= "https://play.google.com/store/apps/details?id=com.app.go_talabat_restaurant">
+<a href= "https://play.google.com/store/apps/details?id=com.app.go_talabat">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 <a href= "https://apps.apple.com/eg/app/go-talabat/id1587119217">
