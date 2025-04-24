@@ -116,7 +116,6 @@ Tshtri | تشترى  is an online marketplace where you can sell and buy nearly 
 
  <br></br>
 
- <p id="warshati"></p>
  
  <p id="guidlle"></p>
 
