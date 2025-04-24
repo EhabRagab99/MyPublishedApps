@@ -142,12 +142,12 @@ Guidlle is an application that offers access to educational resources from prima
 
 
 
-
+ <p id="hrlink"></p>
  <br></br>
-   <p id="hrlink"></p>
+  
  # Hr Link
 
-<a href="https://ibb.co/8D6WVBQm"><img src="https://i.ibb.co/8D6WVBQm/u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw.webp" alt="u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw" alt="nk-IEz-JP-y-DDOo-Wo-LWvm-CKb-DLMq-BD9a-LZom-EOt-Nl1-R2109-Bu-FExcqx-YMxdt-BL4d-IBc-SM3-w480-h960-rw" border="0"></a> alt="2" border="0"></a><p style="display: inline-block">
+<a href="https://ibb.co/8D6WVBQm"><img src="https://i.ibb.co/8D6WVBQm/u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw.webp" alt="u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw" alt="nk-IEz-JP-y-DDOo-Wo-LWvm-CKb-DLMq-BD9a-LZom-EOt-Nl1-R2109-Bu-FExcqx-YMxdt-BL4d-IBc-SM3-w480-h960-rw" border="0"></a><p style="display: inline-block">
 Employee Self-Service
 Empowers employees to manage their personal information, benefits, time-off requests, and performance evaluations.
 
