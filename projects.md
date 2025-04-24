@@ -5,6 +5,8 @@
 <br>
 <div><a href="#guidlle" >Guidlle</a> </div>
 <br>
+<div><a href="#hrlink" >Hr Link</a> </div>
+<br>
 <div><a href="#turnkii" >TurnKii</a> </div>
 <div><a href="#warshati" >Warshati</a> </div>
 <div><a href="#digitalOffice" >Digital Office</a> </div>
@@ -138,8 +140,40 @@ Guidlle is an application that offers access to educational resources from prima
 <!-- ============================================================================================================= -->
  <p id="guidlle"></p>
 
-  <p id="guidlle"></p>
 
+
+
+ <br></br>
+   <p id="hrlink"></p>
+ # Hr Link
+
+<a href="https://ibb.co/8D6WVBQm"><img src="https://i.ibb.co/8D6WVBQm/u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw.webp" alt="u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw" alt="nk-IEz-JP-y-DDOo-Wo-LWvm-CKb-DLMq-BD9a-LZom-EOt-Nl1-R2109-Bu-FExcqx-YMxdt-BL4d-IBc-SM3-w480-h960-rw" border="0"></a> alt="2" border="0"></a><p style="display: inline-block">
+Employee Self-Service
+Empowers employees to manage their personal information, benefits, time-off requests, and performance evaluations.
+
+Recruitment and Onboarding
+Streamlines the hiring process by posting job openings, managing applicant data, and facilitating the onboarding of new hires.
+
+Payroll & Benefits Administration
+Manages employee benefits enrollment, health insurance, retirement plans, and other company perks.
+
+Workflow Automation
+Automates routine HR tasks like approvals, notifications, and reminders, increasing efficiency.
+
+
+
+</p>
+<div id="badges">
+ <a href= "https://play.google.com/store/apps/details?id=com.multitech.link">
+   <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+ </a>
+  <a href= "https://apps.apple.com/us/app/hr-link/id6476208994">
+   <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
+ </a>
+</div>
+<br></br>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
 
  <br></br>
  # TurnKii
