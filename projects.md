@@ -135,6 +135,55 @@ Professionals build rich profiles and CVs; recruiters post jobs and search candi
 
 ---
 
+
+### 🕐 Mward HR
+
+<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/26/cc/6b26ccf0-99a5-1817-f8d0-da7899631efa/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**HR and attendance management system for teams.**
+
+Managers and employees handle attendance, leave requests, meeting scheduling, and reporting — all from a single unified mobile dashboard.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qu_attendance)
+[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mawared-hr/id1572304856)
+
+---
+
+
+### 🏠 TurnKii
+
+<img src="https://i.ibb.co/wZGBKqbP/nk-IEz-JP-y-DDOo-Wo-LWvm-CKb-DLMq-BD9a-LZom-EOt-Nl1-R2109-Bu-FExcqx-YMxdt-BL4d-IBc-SM3-w480-h960-rw.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**Property services super-app for owners, tenants, and service providers.**
+
+Connects property stakeholders with services, financing, and project management tools — simplifying asset utilization and driving sustainable property value.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.turnkii.turnkiiapp)
+[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/turnkii-app/id6742509535)
+
+---
+
+
+### 🏢 HR Link
+
+<img src="https://i.ibb.co/8D6WVBQm/u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**Comprehensive HR management platform for enterprises.**
+
+Covers the full HR lifecycle: employee self-service, recruitment, payroll & benefits, and automated workflows — all in a single mobile-first system.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.multitech.link)
+[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hr-link/id6476208994)
+
+---
+
+
 ### 🛍️ Tshtri | تشتري
 
 <img src="https://i.ibb.co/LZwdm6r/qq.png" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
@@ -163,37 +212,6 @@ A structured learning companion that guides users through educational content at
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.daleeldev.guidlle)
 
 ---
-
-### 🏢 HR Link
-
-<img src="https://i.ibb.co/8D6WVBQm/u-LDIYET9hsso-PJ5-Fk1g-R0av-Uwe-M9-Zi-IVu1h-Up-TZNP63n-Mi5n-GQWu-Nf-Q4-Jm-ZJIt-JPE-w480-h960-rw.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**Comprehensive HR management platform for enterprises.**
-
-Covers the full HR lifecycle: employee self-service, recruitment, payroll & benefits, and automated workflows — all in a single mobile-first system.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.multitech.link)
-[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hr-link/id6476208994)
-
----
-
-### 🏠 TurnKii
-
-<img src="https://i.ibb.co/wZGBKqbP/nk-IEz-JP-y-DDOo-Wo-LWvm-CKb-DLMq-BD9a-LZom-EOt-Nl1-R2109-Bu-FExcqx-YMxdt-BL4d-IBc-SM3-w480-h960-rw.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**Property services super-app for owners, tenants, and service providers.**
-
-Connects property stakeholders with services, financing, and project management tools — simplifying asset utilization and driving sustainable property value.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.turnkii.turnkiiapp)
-[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/turnkii-app/id6742509535)
-
----
-
 ### 🔧 Warshati
 
 <img src="https://i.ibb.co/6RdvCShg/unnamed-1.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
@@ -206,21 +224,6 @@ Get instant, itemized price quotes from authorized workshops near you within min
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/warshati-app/app.warshati/)
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/warshati-app/id1610405764)
-
----
-
-### 🖥️ Digital Office
-
-<img src="https://i.ibb.co/gM3LZHdV/unnamed-2.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**Internal HR communication and workflow app for organizations.**
-
-Digitizes daily HR requests and internal communications, reducing manual overhead and improving response times across departments.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/digital-office/watan.digital.office.watan_digital_office/)
-[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/watan-digital-office/id6449026931)
 
 ---
 
@@ -269,6 +272,23 @@ Browse menus, place orders, and track deliveries in real time — a seamless foo
 
 ---
 
+
+### 🖥️ Digital Office
+
+<img src="https://i.ibb.co/gM3LZHdV/unnamed-2.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**Internal HR communication and workflow app for organizations.**
+
+Digitizes daily HR requests and internal communications, reducing manual overhead and improving response times across departments.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/digital-office/watan.digital.office.watan_digital_office/)
+[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/watan-digital-office/id6449026931)
+
+---
+
+
 ### 🩺 InSure
 
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/35/8d/f2/358df2e2-bf77-0d9e-1e27-70c0f50bb099/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
@@ -280,6 +300,37 @@ Request expert consultations in legal, medical, financial, and other fields — 
 <br>
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/insure-%D8%A7%D9%86%D8%B4%D9%88%D8%B1/id1553904022)
+
+---
+
+
+### 💡 Afkar
+
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/41/fe/10/41fe10ba-ccbe-ae45-f1bd-1c2be419dc2b/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**Investment matchmaking platform for entrepreneurs and investors.**
+
+Connects business idea owners — whether early-stage or established — with investors ready to fund and scale their ventures.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.afkar)
+[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/afkar/id1525581075)
+
+---
+
+
+### 🏆 Altamayuz
+
+<img src="https://play-lh.googleusercontent.com/OeCmWslHEpgr8cbo3ZYwsWQjILr9IJSJV3gYjXHYU-cIxhdzyqqeTHydTGaRCRGRBg=w480-h960-rw" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**Digital membership card with exclusive discounts and daily benefits.**
+
+Delivers value to cardholders through widespread partner discounts aligned with Saudi Vision 2030's goals for digital and financial empowerment.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.classera.leadxera.altamayyuzacademy)
 
 ---
 
@@ -344,21 +395,6 @@ Enables direct communication between public figures and followers, plus a market
 
 ---
 
-### 🕐 Mwardi
-
-<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/26/cc/6b26ccf0-99a5-1817-f8d0-da7899631efa/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**HR and attendance management system for teams.**
-
-Managers and employees handle attendance, leave requests, meeting scheduling, and reporting — all from a single unified mobile dashboard.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mwardi.app)
-[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/mwardi/id6444159801)
-
----
-
 ### 📋 Real Come
 
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/93/3f/4d933f0d-f35e-3faa-db89-bc079ccebac1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
@@ -388,34 +424,6 @@ An authorized electronic invoicing solution compliant with Saudi Arabia's Zakat,
 
 ---
 
-### 💡 Afkar
-
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/41/fe/10/41fe10ba-ccbe-ae45-f1bd-1c2be419dc2b/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**Investment matchmaking platform for entrepreneurs and investors.**
-
-Connects business idea owners — whether early-stage or established — with investors ready to fund and scale their ventures.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.afkar)
-[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/afkar/id1525581075)
-
----
-
-### 🏆 Altamayuz
-
-<img src="https://play-lh.googleusercontent.com/OeCmWslHEpgr8cbo3ZYwsWQjILr9IJSJV3gYjXHYU-cIxhdzyqqeTHydTGaRCRGRBg=w480-h960-rw" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**Digital membership card with exclusive discounts and daily benefits.**
-
-Delivers value to cardholders through widespread partner discounts aligned with Saudi Vision 2030's goals for digital and financial empowerment.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.classera.leadxera.altamayyuzacademy)
-
----
 
 ### 🍽️ Alyassirah Restaurants
 
