@@ -377,8 +377,24 @@ Shop electronics, fashion, beauty, groceries, and household essentials from top 
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=org.mawjood.mawjoodapp)
 
+---
+
+### 🍽️ Alyassirah Restaurants
+
+<img src="https://play-lh.googleusercontent.com/R8RAyl6fbmxYO-lbKWwsEQrIG0ejk3vJcn1TUGEY_T24sLv02d-MNvekPSAPAONXB_k=w480-h960-rw" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**Dedicated ordering app for Al-Yassirah Turkish cuisine restaurants.**
+
+Browse a rich menu of Ottoman-inspired grills, kofta, and kebab — with seamless online ordering for dine-in or delivery.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkpure.com/%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%8A%D8%B3%D9%8A%D8%B1%D8%A9/alyassirah.company.com)
+[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%8A%D8%B3%D9%8A%D8%B1%D8%A9/id1512178854)
+
 
 ---
+
 
 ### ⭐ I Famous
 
@@ -425,21 +441,6 @@ An authorized electronic invoicing solution compliant with Saudi Arabia's Zakat,
 ---
 
 
-### 🍽️ Alyassirah Restaurants
-
-<img src="https://play-lh.googleusercontent.com/R8RAyl6fbmxYO-lbKWwsEQrIG0ejk3vJcn1TUGEY_T24sLv02d-MNvekPSAPAONXB_k=w480-h960-rw" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**Dedicated ordering app for Al-Yassirah Turkish cuisine restaurants.**
-
-Browse a rich menu of Ottoman-inspired grills, kofta, and kebab — with seamless online ordering for dine-in or delivery.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=alyassirah.company.com)
-[![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%8A%D8%B3%D9%8A%D8%B1%D8%A9/id1512178854)
-
-
----
 
 <div align="center">
 
