@@ -4,7 +4,7 @@
 
 **Senior Flutter Developer · Mobile Team Lead · CTO · Cairo, Egypt**
 
-*9+ years engineering · 6+ years Flutter · 25+ apps shipped to Google Play & App Store*
+*12+ years engineering · 6+ years Flutter · 25+ apps shipped to Google Play & App Store*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ehabragab.com-2563EB?style=flat-square)](https://ehabragab.com)
 &nbsp;
