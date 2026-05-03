@@ -145,7 +145,7 @@ List any item in minutes and reach buyers instantly. A streamlined platform buil
 
 <br>
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tshtri.tshtri&hl=en_US)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/tshtri-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A/com.tshtri.tshtri/)
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/tshtri-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A/id1602869931)
 
 ---
@@ -204,7 +204,7 @@ Get instant, itemized price quotes from authorized workshops near you within min
 
 <br>
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.warshati)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/warshati-app/app.warshati/)
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/warshati-app/id1610405764)
 
 ---
@@ -219,7 +219,7 @@ Digitizes daily HR requests and internal communications, reducing manual overhea
 
 <br>
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=watan.digital.office.watan_digital_office)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/digital-office/watan.digital.office.watan_digital_office/)
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/watan-digital-office/id6449026931)
 
 ---
@@ -293,7 +293,7 @@ The first platform to aggregate all maintenance service providers under one roof
 
 <br>
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.Musllaha)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/main-pro/com.Musllaha/)
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/main-pro-%D9%85%D8%A7%D9%8A%D9%86-%D8%A8%D8%B1%D9%88/id1582292480)
 
 ---
@@ -308,8 +308,24 @@ Enables mechanics, electricians, plumbers, and other specialists across Saudi Ar
 
 <br>
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.musllah.musullahservice)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://apkcombo.com/main-pro-partner/com.musllah.musullahservice/)
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/main-pro-partner-%D8%B4%D8%B1%D9%8A%D9%83-%D9%85%D8%A7%D9%8A%D9%86-%D8%A8%D8%B1%D9%88/id1576702076)
+
+
+---
+
+### 🛒 Maojod
+
+<img src="https://play-lh.googleusercontent.com/t6Xd_BF-Smh7MxUGgVV49fpZP-Cni_7cqkTHNurXOwVaEdcMgyw3UAtAj2AGhed9YjY=w480-h960-rw" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
+
+**Multi-category e-commerce marketplace.**
+
+Shop electronics, fashion, beauty, groceries, and household essentials from top brands — a single destination for everyday shopping needs.
+
+<br>
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=org.mawjood.mawjoodapp)
+
 
 ---
 
@@ -397,7 +413,7 @@ Delivers value to cardholders through widespread partner discounts aligned with 
 
 <br>
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=tamayouzapp.tamayouz)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.classera.leadxera.altamayyuzacademy)
 
 ---
 
@@ -414,19 +430,6 @@ Browse a rich menu of Ottoman-inspired grills, kofta, and kebab — with seamles
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=alyassirah.company.com)
 [![App Store](https://img.shields.io/badge/App_Store-Download-1A5276?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%8A%D8%B3%D9%8A%D8%B1%D8%A9/id1512178854)
 
----
-
-### 🛒 Maojod
-
-<img src="https://play-lh.googleusercontent.com/t6Xd_BF-Smh7MxUGgVV49fpZP-Cni_7cqkTHNurXOwVaEdcMgyw3UAtAj2AGhed9YjY=w480-h960-rw" width="72" align="left" style="margin-right:16px; border-radius:12px;" />
-
-**Multi-category e-commerce marketplace.**
-
-Shop electronics, fashion, beauty, groceries, and household essentials from top brands — a single destination for everyday shopping needs.
-
-<br>
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.maojod.maojod_app)
 
 ---
 
